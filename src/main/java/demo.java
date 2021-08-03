@@ -1,3 +1,3 @@
 public class demo {
-    abc
+    private  String name;
 }
